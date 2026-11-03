@@ -1,2 +1,1 @@
-# Hello-World
-This repository is for practicing the GitHub Flow.
+I am Udeme Udom. I love learning, solving problems, and making progress.
